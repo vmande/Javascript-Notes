@@ -13,7 +13,7 @@
 
 // use let instead of var as much as possible.
 
-for(let num =0; num <= 100 ; num ++){
+for(let num =0; num <=  100 ; num ++){
     console.log(num);
 }
 
